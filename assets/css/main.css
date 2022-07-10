@@ -675,6 +675,7 @@ a {
 .icofont-twitter {
 	background: #00aeff !important;
 }
+
 .icofont-instagram {
 	background: linear-gradient(#6e31df, #f03c3c) !important;
 }
@@ -687,6 +688,10 @@ a {
 .fa-facebook-f {
 	background: #2b5dbb !important;
 }
+.fa-twitter {
+	background: #55ACEE;
+	color: white;
+  }
 .footing {
 	margin-top: 50px !important;
 	max-width: 1200px;
